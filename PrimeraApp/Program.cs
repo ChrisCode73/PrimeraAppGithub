@@ -12,6 +12,7 @@ namespace PrimeraApp
         {
             Console.WriteLine("Hello world");
             Console.WriteLine("bye bye"); 
+            Console.WriteLine("hello again");
         }
     }
 }
